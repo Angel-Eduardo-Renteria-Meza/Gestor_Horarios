@@ -1,0 +1,24 @@
+{
+  "name": "gestor_9",
+  "version": "1.0.0",
+  "description": "Este es un proyecto donde voy a utilizar cypress",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PozolitoVerde/Gestor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PozolitoVerde/Gestor/issues"
+  },
+  "homepage": "https://github.com/PozolitoVerde/Gestor#readme",
+  "dependencies": {
+    "cypress": "^12.0.2"
+  }
+}
